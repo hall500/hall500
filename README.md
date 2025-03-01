@@ -7,13 +7,12 @@
 - 🔭 I’m the founder of [Code Sage](https://obzeva.co/code-sage) 
 - 🥗 Like my content? [Buy me a coffee](https://buymeacoffee.com/obzeva)
 - 📫 How to reach me:
-    - [Youtube where you can learn at your pace](https://www.youtube.com/obzeva?sub_confirmation=1)
+    - [Youtube where you can learn at your pace](https://www.youtube.com/@obzeva?sub_confirmation=1)
     - [Read My Notes](https://notes.obzeva.co/)
-    - [Read about testing](https://ultimateqa.com/)
     - [LinkedIn](https://www.linkedin.com/in/abdullah-momoh/)
     - [Twitter for great Dev quotes](https://x.com/mobfire0/)
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: I'm a full-stack changemaker — balancing frontend aesthetics, backend performance, and global impact. 🎨🛠️🌱 My passion for integration goes beyond APIs — I integrate sustainability into every aspect of life.
+- ⚡ Fun fact: I'm a full-stack changemaker — balancing frontend aesthetics, backend performance, and global impact. My passion for integration goes beyond APIs — I integrate sustainability into every aspect of life. 🎨🛠️🌱
 ###
 
 <img align="left" height="200" src="https://media.licdn.com/dms/image/v2/D4E03AQF-2U6NF9Ni1w/profile-displayphoto-shrink_800_800/B4EZVDoJUlG0Ac-/0/1740596353340?e=1746057600&v=beta&t=8q7sl4S0UdSgnqz03srJaUPlH7O0brBD4UGxIOZUBgI"  />
