@@ -2,8 +2,18 @@
 
 ###
 
-<h3 align="left">I'm Abdullah Momoh</h3>
+<h3 align="left">I'm Abdullah</h3>
 
+- 🔭 I’m the founder of [Code Sage](https://obzeva.co/code-sage) 
+- 🥗 Like my content? [Buy me a coffee](https://buymeacoffee.com/obzeva)
+- 📫 How to reach me:
+    - [Youtube where you can learn at your pace](https://www.youtube.com/obzeva?sub_confirmation=1)
+    - [Read My Notes](https://notes.obzeva.co/)
+    - [Read about testing](https://ultimateqa.com/)
+    - [LinkedIn](https://www.linkedin.com/in/abdullah-momoh/)
+    - [Twitter for great Dev quotes](https://x.com/mobfire0/)
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: I'm a full-stack changemaker — balancing frontend aesthetics, backend performance, and global impact. 🎨🛠️🌱 My passion for integration goes beyond APIs — I integrate sustainability into every aspect of life.
 ###
 
 <img align="left" height="200" src="https://media.licdn.com/dms/image/v2/D4E03AQF-2U6NF9Ni1w/profile-displayphoto-shrink_800_800/B4EZVDoJUlG0Ac-/0/1740596353340?e=1746057600&v=beta&t=8q7sl4S0UdSgnqz03srJaUPlH7O0brBD4UGxIOZUBgI"  />
@@ -14,17 +24,6 @@
   <img src="https://streak-stats.demolab.com?user=hall500&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=hall500&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Github's%20Status" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hall500&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/abdullah-momoh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/mobfire0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
 </div>
 
 ###
