@@ -4,6 +4,7 @@
 
 <h3 align="left">I'm Abdullah</h3>
 
+- 🔭 We build great stuff at the [Makerstudio Inc](https://makerstudio.co), feel free to drop in.
 - 🔭 I’m the founder of [Code Sage](https://obzeva.co/code-sage) 
 - 🥗 Like my content? [Buy me a coffee](https://buymeacoffee.com/obzeva)
 - 📫 How to reach me:
