@@ -5,11 +5,11 @@
 <h3 align="left">I'm Abdullah</h3>
 
 - 🔭 We build great stuff at the [Makerstudio Inc](https://makerstudio.co), feel free to drop in.
-- 🔭 I’m the founder of [Obzeva](https://obzeva.com), I like to play with stuff every once in a while. 
+- 🔭 I’m the founder of [Code Sage](https://obzeva.dev/code-sage) 
 - 🥗 Like my content? [Buy me a coffee](https://buymeacoffee.com/obzeva)
 - 📫 If you feel like popping in, you can find me here:
     - [Youtube where you can learn at your pace](https://www.youtube.com/@obzeva?sub_confirmation=1)
-    - [Read My Notes](https://notes.obzeva.co/)
+    - [Read My Notes](https://notes.obzeva.dev/)
     - [LinkedIn](https://www.linkedin.com/in/abdullah-momoh/)
     - [Twitter for great Dev quotes](https://x.com/mobfire0/)
 - 😄 Pronouns: he/him 
