@@ -14,13 +14,9 @@
     - [Twitter for great Dev quotes](https://x.com/mobfire0/)
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I'm a full-stack changemaker — balancing frontend aesthetics, backend performance, and global impact. My passion for integration goes beyond APIs — I integrate sustainability into every aspect of life. 🎨🛠️🌱
-###
-
-<img align="left" height="200" src="https://media.licdn.com/dms/image/v2/D4E03AQF-2U6NF9Ni1w/profile-displayphoto-shrink_800_800/B4EZVDoJUlG0Ac-/0/1740596353340?e=1746057600&v=beta&t=8q7sl4S0UdSgnqz03srJaUPlH7O0brBD4UGxIOZUBgI"  />
 
 ###
-
-<div align="right">
+<div>
   <img src="https://streak-stats.demolab.com?user=hall500&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=hall500&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Github's%20Status" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hall500&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
